@@ -5,6 +5,9 @@ code lab from Google.
 
 This is a work in progress, if you find a mistake, please [file an issue](https://github.com/googlecodelabs/your-first-pwapp/issues). Thanks!
 
+## Screen Shot
+![Screen Shot](http://7xqacx.com1.z0.glb.clouddn.com/pwa.png)
+
 ## What you’ll learn
 * How to design and construct an app using the “app shell” method
 * How to make your app work offline
